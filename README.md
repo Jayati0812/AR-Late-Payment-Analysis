@@ -48,7 +48,7 @@ The end-to-end pipeline was built entirely within Microsoft Fabric:
 - **Report** – Created the **AR Late Payment Analysis** report in Power BI, with separate pages for **Payment Performance** (drivers of late payments) and **Collections Risk** (who's chronically late and carries the most money at risk).
 - **App** – Published `App_late_payments` for end-user access.
 
-![Workflow](images/workflow.png)
+![Workflow](images/Workflow.png)
 
 ---
 
